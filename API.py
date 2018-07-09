@@ -13,7 +13,7 @@ def model_init():
 
 
 def get_prediction():
-    '''Define your prediction login here'''
+    '''Define your prediction logic here'''
 
 
 @app.route("/")
